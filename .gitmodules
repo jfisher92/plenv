@@ -1,3 +1,4 @@
 [submodule "plugins/perl-build"]
+	branch = master
 	path = plugins/perl-build
-	url = https://github.com/tokuhirom/Perl-Build.git
+	url = https://github.com/jfisher92/Perl-Build.git
